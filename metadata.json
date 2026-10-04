@@ -1,0 +1,6 @@
+{
+  "name": "RasoiGuard",
+  "description": "Smart Kitchen & Zero-Waste Manager with real-world SMS/receipt ingestion, camera OCR, traffic light expiry matrix, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
